@@ -1,0 +1,23 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Obj]/
+/[Build]/
+/[Builds]/
+/[Logs]/
+/[UserSettings]/
+/[MemoryCaptures]/
+/.utmp/
+
+# Pliki Visual Studio
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vsconfig
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
